@@ -20,7 +20,7 @@
 }
 
 - (IBAction)oneClick:(id)sender {
-    NSLog(@"我是格雷福斯");
+    NSLog(@"我是男枪boomboomboom");
 }
 
 - (IBAction)twoClick:(id)sender {
