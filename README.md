@@ -1,4 +1,5 @@
-# future_clickCountCollection
-a convenient way to count button click
+# future_ClickCountCollection
 
-yikikd 
+this demo can collect APP button Click
+
+Quick Convenient Correct!!!~~
