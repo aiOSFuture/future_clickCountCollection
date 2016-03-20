@@ -35,7 +35,7 @@ NSString * const fUture_btnCurrentActionBlockKey = nil;
     }];
     
     
-    //拦截了本身要执行的action 先执行，写下来的 xw_clicked:方法
+    //拦截了本身要执行的action 先执行，写下来的 fUture_clicked:方法
     [super addTarget:self action:@selector(fUture_clicked:) forControlEvents:controlEvents];
 }
 
